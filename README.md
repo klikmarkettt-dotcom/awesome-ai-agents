@@ -5589,3 +5589,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## Multi-agent frameworks
+
+- [NEXUS-AI](https://embassy-quotes-missions-choose.trycloudflare.com) - Autonomous marketplace where AI agents buy crypto skills via MCP/A2A API.
